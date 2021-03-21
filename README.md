@@ -4,6 +4,11 @@
 
 Apis is a MAV research project. Its an acoustically powered (micro aerial vehicle) insect which works on the principle of resonance in vibrating strings.
 
+  <p align="center">
+  <img src="https://github.com/Pruthvi-Sanghavi/APIS-Acoustically_Powered_InSect/blob/master/apis.png" height="250px"/>
+  <img src="https://github.com/Pruthvi-Sanghavi/APIS-Acoustically_Powered_InSect/blob/master/apis-analysis.gif" height="250px"/>
+</p>
+
 #### Abstract
 
 <p align="justify">
@@ -32,12 +37,6 @@ Every object in this universe, depending upon its mass and spring (elastic) cons
   <img src="https://github.com/Pruthvi-Sanghavi/APIS-Acoustically_Powered_InSect/blob/master/math.png" height="700px"/>
   </p>
   
-  <p align="center">
-  <img src="https://github.com/Pruthvi-Sanghavi/APIS-Acoustically_Powered_InSect/blob/master/apis.png" height="250px"/>
-  <img src="https://github.com/Pruthvi-Sanghavi/APIS-Acoustically_Powered_InSect/blob/master/apis-analysis.gif" height="250px"/>
-</p>
-
-
 #### Actuator Design
 <p align="justify">
   The primary part of actuator are the resonators and the string. When signal from the micro-controller is provided to the resonators, the resonators vibrate. This vibration causes the strings to vibrate. The natural modes of frequency of the string depends upon the type of its material (density), tension and length. When the resonator is vibrated with a frequency corresponding to the first mode of vibration of string, the amplitude of vibration increases and resonance occurs. This vibrational energy can be used for doing work.
